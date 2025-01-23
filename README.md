@@ -2,6 +2,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&pause=1000&color=8F00FF&width=435&lines=Exploring+tech%2C+creating+my+future.;Coding+dreams%2C+one+line+at+a+time." alt="Typing SVG" /></a>
 </p>
+
+## <picture><img src = "https://github.com/PulinduYK/PulinduYK/edit/main/Images/about_me.gif" width = 50px></picture> About Me
+
 <h3 align="left">A passionate frontend developer from Sri Lanka</h3>
 
 - 🔭 I’m currently working on **Mobile Application Project**
