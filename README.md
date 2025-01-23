@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Pulindu<img src = "https://github.com/PulinduYK/PulinduYK/blob/main/Images/about_me.gif" width = "35"></h1>
+<h1 align="center">Hi, I'm Pulindu<img src = "https://github.com/PulinduYK/PulinduYK/blob/main/Images/giphy.gif" width = "35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&pause=1000&color=8F00FF&width=435&lines=Exploring+tech%2C+creating+my+future.;Coding+dreams%2C+one+line+at+a+time." alt="Typing SVG" /></a>
 </p>
-
-<br>
 
 ## <picture><img src = "https://github.com/PulinduYK/PulinduYK/blob/main/Images/about_me.gif" width = 50px></picture> About Me
 
