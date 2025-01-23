@@ -7,7 +7,7 @@
 
 <picture> <img align="right" src="https://github.com/PulinduYK/PulinduYK/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
 <h3 align="left">A passionate frontend developer from Sri Lanka</h3>
 
