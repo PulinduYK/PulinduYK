@@ -3,7 +3,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&pause=1000&color=8F00FF&width=435&lines=Exploring+tech%2C+creating+my+future.;Coding+dreams%2C+one+line+at+a+time." alt="Typing SVG" /></a>
 </p>
 
+<br>
+
 ## <picture><img src = "https://github.com/PulinduYK/PulinduYK/blob/main/Images/about_me.gif" width = 50px></picture> About Me
+
+<picture> <img align="right" src="https://github.com/PulinduYK/PulinduYK/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 
 <h3 align="left">A passionate frontend developer from Sri Lanka</h3>
 
@@ -13,7 +19,7 @@
 
 - ⚡ Fun fact **I can debug code faster than I can decide what to have for lunch! 🍕💻**
 
-## <picture><img src = "https://github.com/PulinduYK/PulinduYK/blob/main/Images/about_me.gif" width = 50px></picture>Connect with me:
+## <picture><img src = "https://github.com/PulinduYK/PulinduYK/blob/main/Images/Connect-with-me" width = 50px></picture>Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/un" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="un" height="30" width="40" /></a>
 </p>
