@@ -9,7 +9,7 @@
 
 <br>
 
-<h3 align="left">A passionate Fullstack developer from Sri Lanka</h3>
+<h3 align="left">A passionate Software Engineering student in IIT Sri lanka</h3>
 
 - 🔭 I’m currently working on **Mobile Application Project**
 
